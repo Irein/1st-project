@@ -1,0 +1,18 @@
+--2017-04-10 15:20:14--  http://cir.dcs.uni-pannon.hu/cikkek/Database_Normalization.pdf
+Resolving cir.dcs.uni-pannon.hu (cir.dcs.uni-pannon.hu)... 193.6.19.115
+Connecting to cir.dcs.uni-pannon.hu (cir.dcs.uni-pannon.hu)|193.6.19.115|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 376039 (367K) [application/pdf]
+Saving to: ‘Database_Normalization.pdf.1’
+
+     0K .......... .......... .......... .......... .......... 13% 26.7M 0s
+    50K .......... .......... .......... .......... .......... 27% 35.9M 0s
+   100K .......... .......... .......... .......... .......... 40% 43.2M 0s
+   150K .......... .......... .......... .......... .......... 54% 65.5M 0s
+   200K .......... .......... .......... .......... .......... 68% 51.0M 0s
+   250K .......... .......... .......... .......... .......... 81% 58.2M 0s
+   300K .......... .......... .......... .......... .......... 95% 80.6M 0s
+   350K .......... .......                                    100% 61.1M=0.008s
+
+2017-04-10 15:20:17 (46.3 MB/s) - ‘Database_Normalization.pdf.1’ saved [376039/376039]
+
